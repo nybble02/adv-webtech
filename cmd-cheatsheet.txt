@@ -1,5 +1,0 @@
--- Start virtual environment -- 
-source env/bin/activate
-
--- Start Dev server --
-flask --app hello run --host=0.0.0.0
